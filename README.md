@@ -1,7 +1,7 @@
 # -Harsh-artistry
 <h1 align="center">Hi 👋, I'm Harsh Maheshwari</h1>
 <h3 align="center">Focusing & Exploring Artificial Intelligence</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/gptv-code-coding-hacking-jTNG3RF6EwbkpD4LZx">
+<img align="right" alt="" width="400" src="">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh-artistry&label=Profile%20views&color=0e75b6&style=flat" alt="harsh-artistry" /> </p>
 
 - 🧠Currently, I'm actively learning on **Aptitude & sharpening solving skills**
